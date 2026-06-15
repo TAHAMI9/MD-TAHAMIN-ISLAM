@@ -268,4 +268,4 @@ Add these in GitHub → Settings → Secrets → Actions:
 
 ---
 
-Built with ❤️ for Md Tahamin Islam's portfolio |
+Md Tahamin Islam's portfolio |
